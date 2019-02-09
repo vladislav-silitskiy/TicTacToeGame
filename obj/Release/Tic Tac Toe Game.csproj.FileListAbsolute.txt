@@ -1,0 +1,10 @@
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\bin\Release\Tic Tac Toe Game.exe.config
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\bin\Release\Tic Tac Toe Game.exe
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\bin\Release\Tic Tac Toe Game.pdb
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csprojAssemblyReference.cache
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.exe
+C:\Users\V5-573G\Desktop\C# Basics\2\Tic Tac Toe Game\obj\Release\Tic Tac Toe Game.pdb
